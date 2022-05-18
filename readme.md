@@ -1,4 +1,4 @@
-# Git and github course
+# Bear Panda 
 
 
 exit
